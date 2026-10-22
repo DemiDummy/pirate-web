@@ -1,0 +1,1 @@
+Built by tools/assets.mjs from C:/dev/gamedev/prototypes/03-sea-overworld/art (commit 83915ae).
